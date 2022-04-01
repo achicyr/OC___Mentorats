@@ -1,0 +1,9 @@
+[submodule "OC___frontend"]
+	path = OC___frontend
+	url = git@github.com:achicyr/OC___frontend.git
+[submodule "MOOC___webdev"]
+	path = MOOC___webdev
+	url = git@github.com:achicyr/MOOC___Webdev.git
+[submodule "OC___Fullstack"]
+	path = OC___Fullstack
+	url = git@github.com:achicyr/OC___Fullstack.git
